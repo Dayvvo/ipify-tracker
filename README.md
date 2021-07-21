@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://ipify-tracker.netlify.app/)
-- Live Site URL: [Add live site URL here](https://ipify-tracker.netlify.app/)
+- Solution URL: (https://ipify-tracker.netlify.app/)
+- Live Site URL: (https://ipify-tracker.netlify.app/)
 
 ### Built with
 
